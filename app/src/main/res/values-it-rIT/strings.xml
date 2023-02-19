@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyCodiceFiscale</string>
+    <string name="lastName">Cognome</string>
+    <string name="firstName">Nome</string>
+    <string name="sex">Sesso</string>
+    <string name="birthPlace">Luogo di Nascita</string>
+    <string name="city">Provincia</string>
+    <string name="day">GG</string>
+    <string name="month">MM</string>
+    <string name="year">Anno</string>
+    <string name="saveBtn">Salva questo CF</string>
+    <string name="goToSaved">I tuoi CF</string>
+    <string name="savedSuccess">CF salvato con successo</string>
+    <string name="NoCF">Non hai ancora nessun CF salvato!</string>
+    <string name="alreadySaved">CF già salvato</string>
+    <string name="CfDeleted">CF cancellato</string>
+    <string name="delete">Cancella</string>
+    <string name="yourCFis">Il tuo CF è</string>
+</resources>
